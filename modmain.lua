@@ -41,9 +41,9 @@ local require = GLOBAL.require
 local STRINGS = GLOBAL.STRINGS
 
 -- The character select screen lines
-STRINGS.CHARACTER_TITLES.ellen = "The Sample Character"
+STRINGS.CHARACTER_TITLES.ellen = "Ellen Burke"
 STRINGS.CHARACTER_NAMES.ellen = "Esc"
-STRINGS.CHARACTER_DESCRIPTIONS.ellen = "*Perk 1\n*Perk 2\n*Perk 3"
+STRINGS.CHARACTER_DESCRIPTIONS.ellen = "*Pisces\n*Can provide tech support\n*Karaoke song: Paula Abdul Opposites Attract"--"*Perk 1\n*Perk 2\n*Perk 3"
 STRINGS.CHARACTER_QUOTES.ellen = "\"Quote\""
 STRINGS.CHARACTER_SURVIVABILITY.ellen = "Slim"
 
